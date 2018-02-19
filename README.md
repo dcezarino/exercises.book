@@ -1,1 +1,1 @@
-Exercícios resolvido Livro Java
+Exercícios resolvidos Livro Java
